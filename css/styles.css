@@ -120,42 +120,32 @@ a:hover
     left:300px;
     bottom:300px;
 }
-.left-iris
+
+.left-grass1
 {
     position: absolute;
-    left: 130px;
+    left: 230px;
     bottom: 0px;
 }
-.right-iris
+.left-grass2
 {
     position: absolute;
-    right: 270px;
+    left: 280px;
     bottom: 0px;
 }
-.left-grass
+.right-grass1
 {
     position: absolute;
-    left: 210px;
+    right: 230px;
     bottom: 0px;
 }
-.right-grass
+.right-grass2
 {
     position: absolute;
-    right: 190px;
+    right: 300px;
     bottom: 0px;
 }
-.left-redflow
-{
-    position: absolute;
-    left: 290px;
-    bottom: 0px;
-}
-.right-redflow
-{
-    position: absolute;
-    right: 110px;
-    bottom: 0px;
-}
+
 
 .btn {
     background: #32ced1;
