@@ -1,1 +1,1 @@
-This is my personal website I've created that shows a little bit about who I am, what I'm currently doing and my area of interests. Do check it out!  
+This is my <a href="https://preethibijoy.github.io/Personal-Website/">personal website</a> I've created that shows a little bit about who I am, what I'm currently doing and my area of interests. Do check it out!  
